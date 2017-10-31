@@ -3,3 +3,4 @@
 *.pyc
 _output/
 *.db
+test.txt
